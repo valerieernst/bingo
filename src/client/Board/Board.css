@@ -1,0 +1,10 @@
+.board {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+.wrapper {
+    justify-content: center;
+    display: flex;
+    flex: auto;
+}
